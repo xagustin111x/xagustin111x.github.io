@@ -68,3 +68,10 @@ nav ul {
   border-bottom: 1px solid #6495ED; /* Bordes suaves */
   padding: 10px; /* Espacio entre el menú y el borde */
 }
+video {
+  width: 100%; /* ajusta el ancho al 100% de la ventana */
+  height: 10%; /* ajusta el alto automáticamente para mantener la relación de aspecto */
+ 
+  max-width: 50%; /*stablece un máximo de ancho para evitar que el video se vuelva demasiado grande */
+   ;
+}
